@@ -36,7 +36,7 @@ const config = {
   PREFIX: '.',
   MAX_RETRIES: 3,
   GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Dh7gxX9AoVD8gsgWUkhB9r',
-  FREE_IMAGE: 'https://files.catbox.moe/f9gwsx.jpg',
+  FREE_IMAGE: 'https://i.postimg.cc/XYkBDjX9/6d221863-dd6f-4200-9caf-bc8072103ef8.png',
   NEWSLETTER_JID: '120363402507750390@newsletter', // replace with your own newsletter its the main newsletter
   
   // ✅ SUPPORT/VALIDATION NEWSLETTER ( recommended) 
